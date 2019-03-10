@@ -5,13 +5,11 @@ import 'firebase/database';
 import 'firebase/storage';
 
 const config = {
-    apiKey: "AIzaSyAQ8VSxFHnxi2P3dkAwbbR6wcxxrY_g7-w",
-    authDomain: "vivek-blogs.firebaseapp.com",
-    databaseURL: "https://vivek-blogs.firebaseio.com",
-    projectId: "vivek-blogs",
-    storageBucket: "vivek-blogs.appspot.com",
-    messagingSenderId: "590982595975"
-};
+    apiKey: "",
+    authDomain: ".firebaseapp.com",
+    databaseURL: "https://.firebaseio.com",
+    projectId: "",
+    storageBucket: ".appspot.com"};
 
 firebase.initializeApp(config);
 
